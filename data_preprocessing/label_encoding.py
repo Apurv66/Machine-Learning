@@ -1,3 +1,6 @@
+# it is used for target y
+# and it is used for ordinal data
+
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
