@@ -1,3 +1,5 @@
+# it is used for inputs X
+# and it is used for nominal data
 import pandas as pd
 
 data = {
